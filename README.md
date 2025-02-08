@@ -1,3 +1,4 @@
+![PRC Resource Library](4177381372.jpg)  *(Optional: Add alt text for accessibility like: "PRC Resource Library Logo" or a short description of the image)*
 # PRC Resource Library
 
 This repository contains resources related to the PRC Resource Library project.  The process involves several key steps:
