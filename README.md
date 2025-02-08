@@ -15,19 +15,43 @@ This repository contains resources related to the PRC Resource Library project. 
 
 
 ## Repository Structure
-prc-resource-library/
-├── data/          # Location for example YAML or CSV files
-│   ├── lambda.yaml
-│   └── data_classification.csv
-├── docs/          # Documentation files
-│   ├── CLASSIFICATION.md
-│   ├── USER_GUIDE.md
-│   ├── API_DOCS.md
-│   └── CHATBOT_USAGE.md
-├── scripts/       # Any scripts used for processing or automation
-│   └── process_data.py
-├── API_Key/       # API key
-└── ...            # Other project files
+Datasets/  (Root directory - Matches the repo name)
+├── raw/         # Original, unprocessed data files (often large)
+│   ├── classified_data.csv
+│   ├── classified_data.json
+│   └── ...
+├── processed/   # Data that has been cleaned, transformed, or prepared
+│   ├── classified_data.csv
+│   ├── classified_data.pkl  (Pickle files are common for Python data)
+│   └── ...
+├── intermediate/ # Temporary files created during processing (can be deleted later)
+│   └── temp_data.csv
+├── scripts/      # Code for data processing, analysis, or model training
+│   ├── ExploreSpaceSci.ipynb
+│   ├── RCchatbot.ipynb
+│   └── ...
+├── notebooks/    # Colab Notebooks for exploration and experimentation
+│   ├── ExploreSpaceSci.ipynb
+│   ├── RCchatbot.ipynb
+│   └── ...
+├── data/         # Smaller, derived datasets used for specific purposes
+│   ├── classified_data.csv
+│   ├── classified_data.csv
+│   └── ...
+├── models/       # Saved machine learning models
+│   ├── AIchatbot.pkl
+│   └── AIchatbot.h5 
+├── outputs/      # Results, visualizations, or reports
+│   ├── figures/
+│   │   └── 4177381372.jpg
+│   ├── tables/
+│   │   └── classified_data.csv
+│   └── Aton4ST prototype.pdf
+├── docs/         # Documentation files
+│   ├── README.md
+│   └── CONTRIBUTING.md
+├── requirements.txt # List of Python dependencies
+└── ...           # Other files
 
 ## Contributing
 
