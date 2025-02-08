@@ -4,14 +4,35 @@ This repository contains resources related to the PRC Resource Library project. 
 
 ## Project Workflow
 
-1. **YAML File Classification:**  YAML files are classified and organized within this repository.  Further details on the classification scheme and directory structure can be found in [link to documentation or specific file if applicable, e.g., `CLASSIFICATION.md`].
+1. **YAML File Classification:**  YAML files are classified and organized within this repository.  Further details on the classification scheme and directory structure can be found in Main foldee. 
 
-2. **CSV Upload to Web Application:**  Users can upload their CSV files to the designated web application for access and processing.  Instructions for uploading can be found [link to web application or documentation, e.g., `[Web Application Link](your_web_app_link)` or `USER_GUIDE.md`].
+2. **CSV Upload to Web Application:**  Users can upload their CSV files to the designated web application for access and processing.  Instructions for uploading can be found: 'https://prcrs.blogspot.com/p/lambda-ds.htm'
 
-3. **CSV Upload and Data Search (Service):** The uploaded CSV file is then processed by the service.  Users can perform searches against the data within the CSV.  Details on the service API or usage instructions are available [link to API documentation or service instructions, e.g., `API_DOCS.md` or `SERVICE_INSTRUCTIONS.md`].
+3. **CSV Upload and Data Search (Service):** The uploaded CSV file is then processed by the service.  Users can perform searches against the data within the CSV.  Details on the service API or usage instructions are available: 'https://prcrs.blogspot.com/p/lambda-ds.html'. 
 
-4. **AI Chatbot Integration:**  An AI chatbot is integrated to assist users in researching, analyzing, and verifying user data from the internet.  Information on how to interact with the chatbot and its capabilities can be found [link to chatbot documentation or instructions, e.g., `CHATBOT_USAGE.md` or `[Chatbot Link](your_chatbot_link)`].
+4. **AI Chatbot Integration:**  An AI chatbot is integrated to assist users in researching, analyzing, and verifying user data from the internet.  Information on how to interact with the chatbot and its capabilities can be found, `https://prcrs.blogspot.com/p/lambda-ds.html'.
 
 
-## Repository Structure (Optional -  Add if applicable)
+## Repository Structure
+prc-resource-library/
+├── data/          # Location for example YAML or CSV files
+│   ├── lambda.yaml
+│   └── data_classification.csv
+├── docs/          # Documentation files
+│   ├── CLASSIFICATION.md
+│   ├── USER_GUIDE.md
+│   ├── API_DOCS.md
+│   └── CHATBOT_USAGE.md
+├── scripts/       # Any scripts used for processing or automation
+│   └── process_data.py
+├── API_Key/       # API key
+└── ...            # Other project files
+
+## Contributing
+
+Contributions are welcome!  Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+
+## License
+
+Personal use
 
