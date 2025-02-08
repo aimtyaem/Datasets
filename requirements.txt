@@ -1,0 +1,27 @@
+# Core dependencies (always needed)
+pandas  # For data manipulation (CSV/JSON handling)
+requests # For making HTTP requests (if needed for API)
+
+# API Key handling (choose one of the following methods)
+
+# 1. Environment variables (recommended for security)
+# No specific package needed, handled by Python's os module
+
+# 2. Config file (less secure, but sometimes convenient)
+# configparser  # For reading configuration files (e.g., .ini)
+# python-dotenv # For reading .env files (more common for API keys)
+
+# 3. Directly in the script (NOT RECOMMENDED - least secure)
+# (No additional packages needed, but avoid this!)
+
+# JSON handling
+json # Built-in Python library, no need to install
+
+# Example API interaction (if needed)
+# (Install only if your API requires these)
+# aiohttp  # For asynchronous HTTP requests (better performance for some APIs)
+
+# Other optional dependencies (add as needed)
+# numpy  # For numerical operations
+# scikit-learn  # For machine learning
+# ...
