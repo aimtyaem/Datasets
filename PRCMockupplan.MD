@@ -81,7 +81,7 @@
 
 **Final Output:**
 
-![High-Fidelity Mockup Preview](https://github.com/aimtyaem/Datasets/blob/fbc46e0b34ec895715b9418b34894f1e4049a072/resource-library.jpg)
+![High-Fidelity Mockup Preview](https://github.com/aimtyaem/Datasets/blob/cd48a4686bbd6275db3cd3b61097fc756abad61d/resource-library.jpg)
 
 **Next Steps:**
 
