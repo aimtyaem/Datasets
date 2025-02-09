@@ -17,7 +17,7 @@
     *   **Featured Datasets:** Horizontal scroll cards with thumbnail previews and titles (e.g., "James Webb Telescope: Latest Galaxy Images").
     *   **Quick Links:** Icon-based navigation for Education, Citizen Science, and Login (top-right corner).
 
-    ![Homepage Wireframe](https://via.placeholder.com/400x600?text=Mobile+Homepage+Wireframe)
+    ![Homepage Wireframe](https://github.com/aimtyaem/Datasets/blob/fbc46e0b34ec895715b9418b34894f1e4049a072/985614457.jpg)
 
 2.  **Search Results:**
     *   **Filters:** Collapsible sidebar (desktop) or bottom sheet (mobile) for data type, date, and celestial filters.
@@ -81,7 +81,7 @@
 
 **Final Output:**
 
-![High-Fidelity Mockup Preview](https://via.placeholder.com/800x500?text=PRC+Dataset+View+with+Viz+Tools)
+![High-Fidelity Mockup Preview](https://github.com/aimtyaem/Datasets/blob/fbc46e0b34ec895715b9418b34894f1e4049a072/resource-library.jpg)
 
 **Next Steps:**
 
@@ -89,4 +89,4 @@
 2.  Refine chatbot placement and tutorial pacing.
 3.  Hand off design specs with accessibility audit.
 
-Let me know if you’d like to dive deeper into specific screens! 🚀
+Let me know if you’d like to dive deeper into specific screens! 
