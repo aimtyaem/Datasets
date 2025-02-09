@@ -33,7 +33,7 @@ Datasets/  (Root directory - Matches the repo name)
 ├── notebooks/    # Colab Notebooks for exploration and experimentation
 │   ├── ExploreSpaceSci.ipynb
 │   ├── RCchatbot.ipynb
-│   └── ...
+│   └──  CMB_angular_power_spectrum.ipynb
 ├── data/         # Smaller, derived datasets used for specific purposes
 │   ├── classified_data.csv
 │   ├── classified_data.csv
