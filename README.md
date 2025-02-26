@@ -5,7 +5,7 @@ This repository contains resources related to the PRC Resource Library project. 
 
 ## Project Workflow
 
-1. **YAML File Classification:**  YAML files are classified and organized within this repository.  Further details on the classification scheme and directory structure can be found in Main foldee. 
+1. **YAML File Classification:**  YAML files are classified and organized within this repository.  Further details on the classification scheme and directory structure can be found in Main folder. 
 
 2. **CSV Upload to Web Application:**  Users can upload their CSV files to the designated web application for access and processing.  Instructions for uploading can be found: 'https://prcrs.blogspot.com/p/lambda-ds.htm'
 
